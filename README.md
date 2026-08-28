@@ -59,7 +59,7 @@ See [`data/README.md`](data/README.md) for detailed data documentation.
 
 **Option A — Run locally:**
 ```bash
-git clone https://github.com/<your-username>/ev-sales-forecasting.git
+git clone https://github.com/Yemyu/ev-sales-forecasting.git
 cd ev-sales-forecasting
 pip install -r requirements.txt
 
